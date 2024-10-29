@@ -3,7 +3,7 @@
   **Main functionalities**
    - Allows players to ask questions on the server
    - Processes answers and questions
-   - Allows you to customize notification sounds for admins
+   - Allows you to customize vanilla notification sounds for admins
    - Allows you to enable or disable “Do Not Disturb” mode for admins
 
   **Technology Stack**
