@@ -1,3 +1,4 @@
+**[For now, only the Russian version]**
 **This project is a script for the FiveM server that allows players to ask questions to administrators. It provides an easy and convenient way for players to interact with admins and get answers to their questions.**
 
   **Main functionalities**
