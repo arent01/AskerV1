@@ -5,6 +5,9 @@
    - Processes answers and questions
    - Allows you to customize vanilla notification sounds for admins
    - Allows you to enable or disable “Do Not Disturb” mode for admins
+   - Simple code for making changes
+   - Does not use a lot of server resources
+   - Optimized for server use
 
   **Technology Stack**
    + Programming Language: **Lua**
